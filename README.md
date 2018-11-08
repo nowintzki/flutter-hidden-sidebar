@@ -1,5 +1,5 @@
 # flutter-hidden-sidebar
-Example sidebar like iPhone transition, and following design by this GIF.
+Example Flutter UI to create a menu that zooms content in and out. and following design by this GIF.
 
 <pre>
 <img src="assets/menu-opt.gif"></img>
